@@ -6,6 +6,7 @@ function Navbar() {
   const [open, setOpen] = useState(false);
 
   return (
+    
     <>
       <nav className="top-0 left-0 w-full shadow z-10 fixed bg-white">
         <div className="max-auto px-4 py-4 flex items-center justify-between">
